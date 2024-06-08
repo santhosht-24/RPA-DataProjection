@@ -1,0 +1,1 @@
+This repo contains UiPath Studio files for extracting projection data of a sample assembly election from Wikipedia website using Extract Table Data functionality in UiPath and updating the details in an Excel file and sending the file in an email.
